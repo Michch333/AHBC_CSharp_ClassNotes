@@ -1,0 +1,13 @@
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\bin\Debug\netcoreapp3.1\FirstDayOfClass.exe
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\bin\Debug\netcoreapp3.1\FirstDayOfClass.deps.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\bin\Debug\netcoreapp3.1\FirstDayOfClass.runtimeconfig.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\bin\Debug\netcoreapp3.1\FirstDayOfClass.runtimeconfig.dev.json
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\bin\Debug\netcoreapp3.1\FirstDayOfClass.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\bin\Debug\netcoreapp3.1\FirstDayOfClass.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\obj\Debug\netcoreapp3.1\FirstDayOfClass.csprojAssemblyReference.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\obj\Debug\netcoreapp3.1\FirstDayOfClass.AssemblyInfoInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\obj\Debug\netcoreapp3.1\FirstDayOfClass.AssemblyInfo.cs
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\obj\Debug\netcoreapp3.1\FirstDayOfClass.csproj.CoreCompileInputs.cache
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\obj\Debug\netcoreapp3.1\FirstDayOfClass.dll
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\obj\Debug\netcoreapp3.1\FirstDayOfClass.pdb
+C:\Users\Mike\Desktop\Coding\GrandCircus\FirstDayOfClass\FirstDayOfClass\obj\Debug\netcoreapp3.1\FirstDayOfClass.genruntimeconfig.cache
