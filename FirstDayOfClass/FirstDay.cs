@@ -3,7 +3,7 @@ using System.Dynamic;
 
 namespace FirstDayOfClass
 {
-    class Program
+    class FirstDay
     {
         static void Main(string[] args)
         {
